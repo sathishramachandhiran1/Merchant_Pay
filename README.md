@@ -67,8 +67,7 @@ java -jar target/merchantpay-backend-1.0.0.jar
 On startup (local profile) a default admin is seeded:
 
 ```
-email:    admin@merchantpay.local
-password: Admin@12345
+
 ```
 
 ### Key URLs (note the /api context path)
